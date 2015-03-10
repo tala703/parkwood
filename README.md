@@ -5,9 +5,32 @@
 
 
 
-![here is the svg graphic of a tree from the logo in assets folder](assets/img/parkwood-logo-separate-artbords-003-02-export/parkwood-logo-separate-artbords-003-01-export-folder/svg-cleaned/img/tree-straight-col.svg)
+![here is the svg graphic of a tree from the logo in the assets folder](assets/img/parkwood-logo-separate-artbords-003-02-export/parkwood-logo-separate-artbords-003-01-export-folder/svg-cleaned/img/tree-straight-col.svg)
 
-above is the svg graphic of a tree that makes part of the logo. you can find this and all other assets in:
+above is the svg graphic of a tree that makes part of the logo. you can access this image like normal text file on github. you'll find all other assets there as well as some stuff hannah used previously.
+
+i don't know how familiar you are with github but i guess there is no need for introductions and you'll be fine with it even if you aren't using it too often. i assume i don't need to solicit the service or advertise it in any way or form.
+
+
+
+i would like to use waffle.io for issues and you'll be able to access it here once hannah merges the pull requests (technically she is the owner of the repository and we will set up a team to menage permissions some time soon. here is the break down of the access  she'll  tech) 
+
+here is a board which i set up for our other project gitHobo it should give you an idea how it works [![Stories in Ready](https://badge.waffle.io/wearetheplaymakers/githobo.svg?label=ready&title=Ready)](http://waffle.io/wearetheplaymakers/githobo)
+
+i also use gitter for usual communication instead of emails which somehow tend to pile up in my inbox so if you want me to do stuff and you need it quick you'll always find me on gitter.
+
+
+ and seem harder to reference and
+
+and if you already have github acc you might want to just install it on your machina
+
+you might want to try you are
+
+https://gitter.im/weAreThePlayMakers/githobo-open-room?utm_source=share-link&utm_medium=link&utm_campaign=share-link
+
+ so if you have problems just let me know here:
+
+
 
 ``![here is the svg graphic of a tree from the logo in assets folder](assets/img/parkwood-logo-separate-artbords-003-02-export/parkwood-logo-separate-artbords-003-01-export-folder/svg-cleaned/img/tree-straight-col.svg)``
 
