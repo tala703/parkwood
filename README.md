@@ -1,17 +1,16 @@
 #hello unicorns!
 
-[![Join the chat at https://gitter.im/weAreThePlayMakers/parkwood](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/weAreThePlayMakers/parkwood?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/weAreThePlayMakers/parkwood](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/weAreThePlayMakers/parkwood?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) 
 
+[![Stories in Ready](https://badge.waffle.io/wearetheplaymakers/parkwood.svg?label=ready&title=Ready)](http://waffle.io/wearetheplaymakers/parkwood)
 
-
-
-
+---
 
 ![here is the svg graphic of a tree from the logo in the assets folder](assets/img/parkwood-logo-separate-artbords-003-02-export/parkwood-logo-separate-artbords-003-01-export-folder/svg-cleaned/img/tree-straight-col.svg)
 
 above is the svg graphic of a tree that makes part of the logo. you can access this image like normal text file on github. you'll find all other assets there as well as some stuff hannah used previously.
 
-https://github.com/tala703/parkwood
+https://github.com/weAreThePlayMakers/parkwood
 
 i don't know how familiar you are with github but i guess there is no need for [introductions](https://help.github.com/articles/github-flow-in-the-browser/) and you'll be fine with it even if you aren't using it too often.
 
