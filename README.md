@@ -9,13 +9,38 @@
 
 above is the svg graphic of a tree that makes part of the logo. you can access this image like normal text file on github. you'll find all other assets there as well as some stuff hannah used previously.
 
-i don't know how familiar you are with github but i guess there is no need for introductions and you'll be fine with it even if you aren't using it too often. i assume i don't need to solicit the service or advertise it in any way or form.
+https://github.com/tala703/parkwood
 
+i don't know how familiar you are with github but i guess there is no need for [introductions](https://help.github.com/articles/github-flow-in-the-browser/) and you'll be fine with it even if you aren't using it too often.
 
+i assume i don't need to solicit awesome power of this service or otherwise advertise its great features.
 
-i would like to use waffle.io for issues and you'll be able to access it here once hannah merges the pull requests (technically she is the owner of the repository and we will set up a team to menage permissions some time soon. here is the break down of the access  she'll  tech) 
+i would like to use waffle.io for issues and you'll be able to access it here once hannah merges the pull requests.
 
-here is a board which i set up for our other project gitHobo it should give you an idea how it works [![Stories in Ready](https://badge.waffle.io/wearetheplaymakers/githobo.svg?label=ready&title=Ready)](http://waffle.io/wearetheplaymakers/githobo)
+if you aren't familiar with it here is a board which i set up as an example, it should give you an idea how it works [![Stories in Ready](https://badge.waffle.io/wearetheplaymakers/githobo.svg?label=ready&title=Ready)](http://waffle.io/wearetheplaymakers/githobo)
+
+all the same reasons applie to gitter which i use for usual communication and as simple chat/irc
+
+https://gitter.im/weAreThePlayMakers/githobo-open-room?utm_source=share-link&utm_medium=link&utm_campaign=share-link
+
+this replaces usual email + customer management pages + chat on the site and facebook page as first port of call and questions etc + repository of files and links ...
+
+i think it makes sense to have some code review, and code management system in place and this is how i do things because it seems to work for me like nothing else ever did.
+
+it also has the extra benefit of connecting usual comments in the code with all the communication that usually is locked in emails and which now could be included in one form or another as documentation.
+
+in any case if you want me to do some stuff and you need it quickly then gitter is your best chance to get my attention quickly. i usually respond to questions etc.
+
+afterwards we could add to the site something like
+
+<div id="tlkio" data-channel="githobo-open-room" style="width:100%;height:100%;"></div><script async src="http://tlk.io/embed.js" type="text/javascript"></script>
+
+http://tlk.io/githobo-open-room
+
+at the moment hannah is the owner of the master repo so fork it, modify whatever you need to modify, commit your changes, write informative comments to these commits, sync with your master branch and make a pull request also adding a comment if necessary.
+
+she will set up a team on wearetheplaymakers.com github page and add you to it as soon as we know how to find you. we need this setup to menage permissions [read more and see the clean break down of permissions](https://help.github.com/articles/permission-levels-for-an-organization-repository/)
+
 
 i also use gitter for usual communication instead of emails which somehow tend to pile up in my inbox so if you want me to do stuff and you need it quick you'll always find me on gitter.
 
