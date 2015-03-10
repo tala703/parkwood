@@ -1,0 +1,165 @@
+{
+	"name": "parkwood-logo-separate-artbords-003-02-export.ai",
+	"width": 476,
+	"height": 438,
+	"layers": [
+		{
+			"x": "32.93",
+			"y": "-430.10",
+			"r": "2434.32",
+			"b": "-80.93",
+			"width": "2401.39",
+			"height": "349.17",
+			"layername": "parkwood-logo-colour ",
+			"name": "parkwood-logo-colour-",
+			"type": "div",
+			"visible": true,
+			"items": [
+				{
+					"x": 1991.33,
+					"y": 0,
+					"r": "2434.32",
+					"b": "-80.93",
+					"width": "410.07",
+					"height": "349.17",
+					"layername": "parkwood-primary-school-col.png",
+					"name": "parkwood-primary-school-col",
+					"type": "png",
+					"filename": "parkwood-primary-school-col.png",
+					"visible": true
+				},
+				{
+					"x": 1583.46,
+					"y": 86.54,
+					"r": "1851.38",
+					"b": "-91.20",
+					"width": "234.98",
+					"height": "252.37",
+					"layername": "tree-bezier-col.png",
+					"name": "tree-bezier-col",
+					"type": "png",
+					"filename": "tree-bezier-col.png",
+					"visible": true
+				},
+				{
+					"x": 1089.15,
+					"y": 86.89,
+					"r": "1356.76",
+					"b": "-90.37",
+					"width": "234.67",
+					"height": "252.84",
+					"layername": "tree-straight-col.png",
+					"name": "tree-straight-col",
+					"type": "png",
+					"filename": "tree-straight-col.png",
+					"visible": true
+				},
+				{
+					"x": 0,
+					"y": 0,
+					"r": "442.99",
+					"b": "-80.93",
+					"width": "410.07",
+					"height": "349.17",
+					"layername": "tree-text-bezier-col.png",
+					"name": "tree-text-bezier-col",
+					"type": "png",
+					"filename": "tree-text-bezier-col.png",
+					"visible": true
+				},
+				{
+					"x": 503.57,
+					"y": 0,
+					"r": "946.56",
+					"b": "-80.93",
+					"width": "410.07",
+					"height": "349.17",
+					"layername": "tree-text-straight-col.png",
+					"name": "tree-text-straight-col",
+					"type": "png",
+					"filename": "tree-text-straight-col.png",
+					"visible": true
+				}
+			]
+		},
+		{
+			"x": "32.93",
+			"y": "43.95",
+			"r": "2434.32",
+			"b": "393.12",
+			"width": "2401.39",
+			"height": "349.17",
+			"layername": "parkwood-logo-black-white",
+			"name": "parkwood-logo-black-white",
+			"type": "div",
+			"visible": true,
+			"items": [
+				{
+					"x": 1991.33,
+					"y": 0,
+					"r": "2434.32",
+					"b": "393.12",
+					"width": "410.07",
+					"height": "349.17",
+					"layername": "parkwood-primary-school.png",
+					"name": "parkwood-primary-school",
+					"type": "png",
+					"filename": "parkwood-primary-school.png",
+					"visible": true
+				},
+				{
+					"x": 1583.46,
+					"y": 86.53,
+					"r": "1851.38",
+					"b": "382.85",
+					"width": "234.98",
+					"height": "252.37",
+					"layername": "tree-bezier.png",
+					"name": "tree-bezier",
+					"type": "png",
+					"filename": "tree-bezier.png",
+					"visible": true
+				},
+				{
+					"x": 1089.15,
+					"y": 86.89,
+					"r": "1356.76",
+					"b": "383.68",
+					"width": "234.67",
+					"height": "252.84",
+					"layername": "tree-straight.png",
+					"name": "tree-straight",
+					"type": "png",
+					"filename": "tree-straight.png",
+					"visible": true
+				},
+				{
+					"x": 0,
+					"y": 0,
+					"r": "442.99",
+					"b": "393.12",
+					"width": "410.07",
+					"height": "349.17",
+					"layername": "tree-text-bezier.png",
+					"name": "tree-text-bezier",
+					"type": "png",
+					"filename": "tree-text-bezier.png",
+					"visible": true
+				},
+				{
+					"x": 503.57,
+					"y": 0,
+					"r": "946.56",
+					"b": "393.12",
+					"width": "410.07",
+					"height": "349.17",
+					"layername": "tree-text-straight.png",
+					"name": "tree-text-straight",
+					"type": "png",
+					"filename": "tree-text-straight.png",
+					"visible": true
+				}
+			]
+		}
+	]
+}
