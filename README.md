@@ -8,7 +8,7 @@
 
 ![here is the svg graphic of a tree from the logo in the assets folder](https://raw.githubusercontent.com/weAreThePlayMakers/parkwood/master/assets/img/parkwood-logo-separate-artbords-003-03-export/png/img/tree-text-straight-col.png)
 
-above is the svg graphic of a tree that makes part of the logo. you can access this image like normal text file on github. you'll find all other assets there as well as some stuff hannah used previously.
+above is the svg graphic of the edited logo - straight tree and all. you can access this image like normal text file on github. you'll find all other assets there as well as some stuff hannah used previously.
 
 https://github.com/weAreThePlayMakers/parkwood
 
